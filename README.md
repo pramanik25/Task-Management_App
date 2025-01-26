@@ -137,6 +137,7 @@ This project fulfills the requirements of a front-end development assignment, de
 *   **Responsive Design Implementation:** Achieved a responsive layout using CSS Media Queries, ensuring the application is usable and well-presented across different screen sizes and devices.
 *   **Code Structure and Readability:**  Refocused on writing clean, modular, and well-commented code throughout the development process, improving maintainability and demonstrating adherence to best practices for React application development.
 
+** Successfully deployed on vercel (https://task-management-app-tawny-two.vercel.app/)
 ---
 
 **Developed by:** Vikash Pramanik
