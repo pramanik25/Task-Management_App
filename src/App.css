@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    margin-top: 20px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.search-bar .search-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
