@@ -95,10 +95,10 @@ This project fulfills the requirements of a front-end development assignment, de
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [[REPOSITORY_URL](https://github.com/pramanik25/Task-Management_App.git)]
     cd [YOUR_REPOSITORY_FOLDER_NAME]
     ```
-    *(Replace `[YOUR_REPOSITORY_URL]` with the actual URL of your GitHub repository and `[YOUR_REPOSITORY_FOLDER_NAME]` with your project folder name.)*
+  
 
 2.  **Install dependencies:**
     ```bash
@@ -140,4 +140,4 @@ This project fulfills the requirements of a front-end development assignment, de
 ---
 
 **Developed by:** Vikash Pramanik
-**GitHub Repository:** [YOUR_REPOSITORY_URL] *(Replace with your repo URL)*
+**GitHub Repository:** [[REPOSITORY_URL](https://github.com/pramanik25/Task-Management_App.git)] 
