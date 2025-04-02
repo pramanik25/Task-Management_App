@@ -1,5 +1,7 @@
 # Task Management App - Assignment Submission
 
+---![Screenshot 2025-04-02 201917](https://github.com/user-attachments/assets/c72f1966-3e8c-4a47-be7b-fd409b31601f)
+
 **Assignment Title:** Build a Simple Task Management App
 
 **Objective:**
@@ -138,7 +140,7 @@ This project fulfills the requirements of a front-end development assignment, de
 *   **Code Structure and Readability:**  Refocused on writing clean, modular, and well-commented code throughout the development process, improving maintainability and demonstrating adherence to best practices for React application development.
 
 ** Successfully deployed on vercel (https://task-management-app-tawny-two.vercel.app/)
----![Screenshot 2025-04-02 201917](https://github.com/user-attachments/assets/c72f1966-3e8c-4a47-be7b-fd409b31601f)
+
 
 
 **Developed by:** Vikash Pramanik
